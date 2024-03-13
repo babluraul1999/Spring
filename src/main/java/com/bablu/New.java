@@ -7,5 +7,6 @@ public class New {
 		System.out.println("hyy bablu");
 		System.out.println("change");
 		System.out.println("not");
+		System.out.println("dinesh");
 	}
 }
